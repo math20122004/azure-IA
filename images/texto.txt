@@ -1,0 +1,1 @@
+O projeto consiste em explorar os recursos de IA do Azure, utilizando suas funcionalidades para converter áudio em texto.
